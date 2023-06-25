@@ -1,0 +1,48 @@
+dataPoints = [
+  { driverId: 1, year: 2022, fullName: "Max Verstappen ", points: "454" },
+  { driverId: 2, year: 2022, fullName: "Charles Leclerc ", points: "308" },
+  { driverId: 3, year: 2022, fullName: "Sergio Perez ", points: "305" },
+  { driverId: 4, year: 2022, fullName: "George Russell ", points: "275" },
+  { driverId: 5, year: 2022, fullName: "Carlos Sainz ", points: "246" },
+  { driverId: 6, year: 2022, fullName: "Lewis Hamilton ", points: "240" },
+  { driverId: 7, year: 2022, fullName: "Lando Norris ", points: "122" },
+  { driverId: 8, year: 2022, fullName: "Esteban Ocon ", points: "92" },
+  { driverId: 9, year: 2022, fullName: "Fernando Alonso ", points: "81" },
+  { driverId: 10, year: 2022, fullName: "Valtteri Bottas ", points: "49" },
+  { driverId: 0, year: 2022, fullName: "Daniel Ricciardo ", points: "37" },
+  { driverId: 0, year: 2022, fullName: "Sebastian Vettel ", points: "37" },
+  { driverId: 13, year: 2022, fullName: "Kevin Magnussen ", points: "25" },
+  { driverId: 0, year: 2022, fullName: "Pierre Gasly ", points: "23" },
+  { driverId: 15, year: 2022, fullName: "Lance Stroll ", points: "18" },
+  { driverId: 0, year: 2022, fullName: "Mick Schumacher ", points: "12" },
+  { driverId: 0, year: 2022, fullName: "Yuki Tsunoda ", points: "12" },
+  { driverId: 18, year: 2022, fullName: "Zhou Guanyu ", points: "6" },
+  { driverId: 19, year: 2022, fullName: "Alexander Albon ", points: "4" },
+  { driverId: 0, year: 2022, fullName: "Nicholas Latifi ", points: "2" },
+  { driverId: 0, year: 2022, fullName: "Nyck De Vries ", points: "2" },
+];
+data = [
+  { id: 1, fullName: "Max Verstappen " },
+  { id: 2, fullName: "Charles Leclerc " },
+  { id: 3, fullName: "Sergio Perez " },
+  { id: 4, fullName: "George Russell " },
+  { id: 5, fullName: "Carlos Sainz " },
+  { id: 6, fullName: "Lewis Hamilton " },
+  { id: 7, fullName: "Lando Norris " },
+  { id: 8, fullName: "Esteban Ocon " },
+  { id: 9, fullName: "Fernando Alonso " },
+  { id: 10, fullName: "Valtteri Bottas " },
+  { id: 13, fullName: "Kevin Magnussen " },
+  { id: 15, fullName: "Lance Stroll " },
+  { id: 18, fullName: "Zhou Guanyu " },
+  { id: 19, fullName: "Alexander Albon " },
+  { id: 21, fullName: "Nyck De Vries " },
+  { id: 22, fullName: "Oscar Piastri" },
+  { id: 23, fullName: "Pierre Gasly" },
+  { id: 24, fullName: "Nico Hulkenberg" },
+  { id: 25, fullName: "Logan Sargeant" },
+];
+for(let i=0; i<data.length; i++)
+{
+
+}
